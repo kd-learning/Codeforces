@@ -34,6 +34,18 @@ This repository contains solutions to various problems from [Codeforces](https:/
 | [ ](https://codeforces.com/) | [ Solution](solutions/) |
 | [ ](https://codeforces.com/) | [ Solution](solutions/) |
 | [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
 ---
 
 ## Updates

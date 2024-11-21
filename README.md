@@ -21,6 +21,19 @@ This repository contains solutions to various problems from [Codeforces](https:/
 | [59A. Word](https://codeforces.com/problemset/problem/59/A) | [Python Solution](solutions/59a_word.py) |
 | [41A. Translation](https://codeforces.com/problemset/problem/41/A) | [C++ Solution](solutions/41a_translation.cpp) |
 | [271A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [Python Solution](solutions/271a_beautiful_year.py) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
+| [ ](https://codeforces.com/) | [ Solution](solutions/) |
 ---
 
 ## Updates

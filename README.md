@@ -16,6 +16,11 @@ This repository contains solutions to various problems from [Codeforces](https:/
 | [282A. Bit++](https://codeforces.com/contest/282/problem/A) | [C++ Solution](solutions/282a_bitpp.cpp) |
 | [158A. Next Round](https://codeforces.com/contest/158/problem/A) | [C++ Solution](solutions/158a_next_round.cpp) |
 | [263A. Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [C++ Solution](solutions/263a_beaty_matrix.cpp) |
+| [266A. Stones on the Table](https://codeforces.com/contest/266/problem/A) | [C++ Solution](solutions/266a_stones.cpp) |
+| [2038N. Fixing the Expression](https://codeforces.com/problemset/problem/2038/N) | [Python Solution](solutions/2038n_fixing.py) |
+| [59A. Word](https://codeforces.com/problemset/problem/59/A) | [Python Solution](solutions/59a_word.py) |
+| [41A. Translation](https://codeforces.com/problemset/problem/41/A) | [C++ Solution](solutions/41a_translation.cpp) |
+| [271A. Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [Python Solution](solutions/271a_beautiful_year.py) |
 ---
 
 ## Updates
